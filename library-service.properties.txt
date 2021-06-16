@@ -1,0 +1,6 @@
+  
+server.port=9080
+
+######### URL Configurations ###############
+#BookManagement App
+bookManagement.url = http://localhost:9081/book_app/v1/book/request/{bookId}
